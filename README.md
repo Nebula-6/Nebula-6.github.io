@@ -30,9 +30,7 @@ About:blank cloaks will hide the pages that use it from your history, prevent a 
     <summary>Why does YouTube say "youtube.com refused to connect"?</summary>
       I know this, you can use Invidious or a proxy for YouTube
     </details>
-  <!-- footer css from https://stackoverflow.com/a/59997588 -->
-  <a href="https://www.linktr.ee/largomc" style="position: absolute; bottom: 0; left: 0; width: 100%;">By LargoMC</p>
-<script src="https://cdn.jsdelivr.net/gh/FogNetwork/ABC/index.js"></script>
+  >
   <script>
     function validURL(str) {
   var pattern = new RegExp('^(https?:\\/\\/)?'+ // protocol
